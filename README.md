@@ -1,7 +1,8 @@
 # Just a PDF Tool
 
 ## Description
-This desktop app consists of two main scripts: `app.py` and `pdf_utility.py`. The purpose of these scripts is to provide utilities for handling PDF files, including operations such as merging, splitting, and extracting text from PDFs.
+Tired of using online PDF editor, I decided to build my own.
+
 
 ![Merge PDFs UI](./note/app_ui_merge.png)
 
