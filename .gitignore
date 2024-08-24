@@ -1,0 +1,13 @@
+# directories
+Include
+Lib
+Scripts
+test
+splitted
+
+# files
+*cfg
+*.pdf
+test*
+*pycache*
+*.pdf
