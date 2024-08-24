@@ -7,6 +7,10 @@ This desktop app consists of two main scripts: `app.py` and `pdf_utility.py`. Th
 
 ![Split PDF UI](./note/app_ui2.png)
 
+![Encrypt PDF UI](./note/app_ui3.png)
+
+![Decrypt PDF UI](./note/app_ui4.png)
+
 ## Installation
 To set up the project, follow these steps:
 
