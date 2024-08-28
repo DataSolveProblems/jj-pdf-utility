@@ -1,7 +1,7 @@
 # Just a PDF Tool
 
 ## Description
-Tired of using online PDF editor, I decided to build my own.
+Tired of using online PDF tools, I decided to build my own.
 
 
 ![Merge PDFs UI](./note/app_ui_merge.png)
