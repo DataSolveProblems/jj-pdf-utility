@@ -66,5 +66,5 @@ python app.py
 - Compress PDF
 - Watermark PDF
 - Rotate PDF
-- Encrypt/Decrypt PDF
+- ~~Encrypt/Decrypt PDF~~
 - Sign PDF
